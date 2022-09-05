@@ -1,0 +1,12 @@
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.csprojAssemblyReference.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.AssemblyInfoInputs.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.AssemblyInfo.cs
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.csproj.CoreCompileInputs.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\bin\Debug\netstandard2.1\Mantenimiento.app.Persistencia.deps.json
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\bin\Debug\netstandard2.1\Mantenimiento.app.Persistencia.dll
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\bin\Debug\netstandard2.1\Mantenimiento.app.Persistencia.pdb
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\bin\Debug\netstandard2.1\Mantenimiento.app.Dominio.dll
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\bin\Debug\netstandard2.1\Mantenimiento.app.Dominio.pdb
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.csproj.CopyComplete
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.dll
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Persistencia\obj\Debug\netstandard2.1\Mantenimiento.app.Persistencia.pdb

@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Consola\\Mantenimiento.app.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Consola\\Mantenimiento.app.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Consola\\Mantenimiento.app.Consola.csproj",
+        "projectName": "Mantenimiento.app.Consola",
+        "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Consola\\Mantenimiento.app.Consola.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj": {
+                "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj"
+              },
+              "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\Mantenimiento.app.Persistencia.csproj": {
+                "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\Mantenimiento.app.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj",
+        "projectName": "Mantenimiento.app.Dominio",
+        "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\Mantenimiento.app.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\Mantenimiento.app.Persistencia.csproj",
+        "projectName": "Mantenimiento.app.Persistencia",
+        "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\Mantenimiento.app.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj": {
+                "projectPath": "C:\\MantenimientoAutomotriz\\Mantenimiento.app\\Mantenimiento.app.Dominio\\Mantenimiento.app.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

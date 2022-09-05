@@ -1,0 +1,9 @@
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.csprojAssemblyReference.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.AssemblyInfoInputs.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.AssemblyInfo.cs
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.csproj.CoreCompileInputs.cache
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\bin\Debug\netstandard2.0\Mantenimiento.app.Dominio.deps.json
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\bin\Debug\netstandard2.0\Mantenimiento.app.Dominio.dll
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\bin\Debug\netstandard2.0\Mantenimiento.app.Dominio.pdb
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.dll
+C:\MantenimientoAutomotriz\Mantenimiento.app\Mantenimiento.app.Dominio\obj\Debug\netstandard2.0\Mantenimiento.app.Dominio.pdb
